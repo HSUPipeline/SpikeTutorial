@@ -4,9 +4,9 @@ This is a tutorial for working with spiking data, in particular single-unit data
 
 ## Overview
 
-Words, words, words.
-
-For a related list of relevant tools and resources, see the [SpikeResources] open list.
+For a related list of relevant tools and resources, see the 
+[SpikeResources](https://github.com/openlists/SpikeResources)
+open list.
 
 ## Data
 
